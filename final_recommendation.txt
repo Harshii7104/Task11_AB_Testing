@@ -1,0 +1,11 @@
+
+A/B Testing Final Recommendation:
+
+- The experiment compared a control group and a test group.
+- The statistical test was performed with alpha = 0.05.
+- Based on the p-value, we evaluated whether the difference is significant.
+
+Business Decision:
+If the test group shows statistically significant improvement,
+we recommend rolling out the test version.
+Otherwise, retain the control version and test further.
